@@ -1,0 +1,750 @@
+[
+    {
+        "id": "63e6c2b6-4a8e-869c-3d4c-e38355226584",
+        "displayName": "Odin",
+        "image": "https://media.valorant-api.com/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584/displayicon.png",
+        "category": "Heavy Weapons",
+        "cost": 3200,
+        "stats": {
+            "fireRate": 12,
+            "magazineSize": 100,
+            "runSpeedMultiplier": 0.76,
+            "equipTimeSeconds": 1.25,
+            "reloadTimeSeconds": 5,
+            "firstBulletAccuracy": 0.8,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::High",
+            "feature": "EWeaponStatsFeature::ROFIncrease",
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.15,
+                "fireRate": 15.6,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": 0.79
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 30,
+                    "headDamage": 95,
+                    "bodyDamage": 38,
+                    "legDamage": 32.3
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 77.5,
+                    "bodyDamage": 31,
+                    "legDamage": 26.35
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "55d8a0f4-4274-ca67-fe2c-06ab45efdf58",
+        "displayName": "Ares",
+        "image": "https://media.valorant-api.com/weapons/55d8a0f4-4274-ca67-fe2c-06ab45efdf58/displayicon.png",
+        "category": "Heavy Weapons",
+        "cost": 1550,
+        "stats": {
+            "fireRate": 10,
+            "magazineSize": 50,
+            "runSpeedMultiplier": 0.76,
+            "equipTimeSeconds": 1.25,
+            "reloadTimeSeconds": 3.25,
+            "firstBulletAccuracy": 0.8,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::High",
+            "feature": "EWeaponStatsFeature::ROFIncrease",
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.15,
+                "fireRate": 10,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": 0.67
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 30,
+                    "headDamage": 72,
+                    "bodyDamage": 30,
+                    "legDamage": 25.5
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 67.200005,
+                    "bodyDamage": 28,
+                    "legDamage": 23.800001
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+        "displayName": "Vandal",
+        "image": "https://media.valorant-api.com/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872/displayicon.png",
+        "category": "Assault Rifles",
+        "cost": 2900,
+        "stats": {
+            "fireRate": 9.75,
+            "magazineSize": 25,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 0.25,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Medium",
+            "feature": null,
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.25,
+                "fireRate": 8.775,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": 0.1575
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 50,
+                    "headDamage": 160,
+                    "bodyDamage": 40,
+                    "legDamage": 34
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "ae3de142-4d85-2547-dd26-4e90bed35cf7",
+        "displayName": "Bulldog",
+        "image": "https://media.valorant-api.com/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7/displayicon.png",
+        "category": "Assault Rifles",
+        "cost": 2050,
+        "stats": {
+            "fireRate": 9.5,
+            "magazineSize": 24,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 0.3,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Medium",
+            "feature": null,
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.25,
+                "fireRate": 6.315715,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 3,
+                "firstBulletAccuracy": 0.3
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 50,
+                    "headDamage": 115.5,
+                    "bodyDamage": 35,
+                    "legDamage": 29.75
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a",
+        "displayName": "Phantom",
+        "image": "https://media.valorant-api.com/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a/displayicon.png",
+        "category": "Assault Rifles",
+        "cost": 2900,
+        "stats": {
+            "fireRate": 11,
+            "magazineSize": 30,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 0.2,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Medium",
+            "feature": "EWeaponStatsFeature::Silenced",
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.25,
+                "fireRate": 9.9,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": 0.11000001
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 15,
+                    "headDamage": 156,
+                    "bodyDamage": 39,
+                    "legDamage": 33.15
+                },
+                {
+                    "rangeStartMeters": 15,
+                    "rangeEndMeters": 30,
+                    "headDamage": 140,
+                    "bodyDamage": 35,
+                    "legDamage": 29.75
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 124,
+                    "bodyDamage": 31,
+                    "legDamage": 26.35
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "ec845bf4-4f79-ddda-a3da-0db3774b2794",
+        "displayName": "Judge",
+        "image": "https://media.valorant-api.com/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794/displayicon.png",
+        "category": "Shotguns",
+        "cost": 1850,
+        "stats": {
+            "fireRate": 3.5,
+            "magazineSize": 7,
+            "runSpeedMultiplier": 0.75,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.2,
+            "firstBulletAccuracy": 2.25,
+            "shotgunPelletCount": 12,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": null,
+            "altFireType": null,
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 10,
+                    "headDamage": 34,
+                    "bodyDamage": 17,
+                    "legDamage": 14.450001
+                },
+                {
+                    "rangeStartMeters": 10,
+                    "rangeEndMeters": 15,
+                    "headDamage": 20,
+                    "bodyDamage": 10,
+                    "legDamage": 8.5
+                },
+                {
+                    "rangeStartMeters": 15,
+                    "rangeEndMeters": 50,
+                    "headDamage": 14,
+                    "bodyDamage": 7,
+                    "legDamage": 5.9500003
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "910be174-449b-c412-ab22-d0873436b21b",
+        "displayName": "Bucky",
+        "image": "https://media.valorant-api.com/weapons/910be174-449b-c412-ab22-d0873436b21b/displayicon.png",
+        "category": "Shotguns",
+        "cost": 850,
+        "stats": {
+            "fireRate": 1.1,
+            "magazineSize": 5,
+            "runSpeedMultiplier": 0.75,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 2.6,
+            "shotgunPelletCount": 15,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": "EWeaponAltFireDisplayType::AirBurst",
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": {
+                "shotgunPelletCount": 5,
+                "burstDistance": 7.5
+            },
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 8,
+                    "headDamage": 40,
+                    "bodyDamage": 20,
+                    "legDamage": 17
+                },
+                {
+                    "rangeStartMeters": 8,
+                    "rangeEndMeters": 12,
+                    "headDamage": 26,
+                    "bodyDamage": 13,
+                    "legDamage": 11.05
+                },
+                {
+                    "rangeStartMeters": 12,
+                    "rangeEndMeters": 50,
+                    "headDamage": 18,
+                    "bodyDamage": 9,
+                    "legDamage": 7.65
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "44d4e95c-4157-0037-81b2-17841bf2e8e3",
+        "displayName": "Frenzy",
+        "image": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+        "category": "Sidearms",
+        "cost": 450,
+        "stats": {
+            "fireRate": 10,
+            "magazineSize": 13,
+            "runSpeedMultiplier": 0.85,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 1.5,
+            "firstBulletAccuracy": 0.45,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": null,
+            "altFireType": null,
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 20,
+                    "headDamage": 78,
+                    "bodyDamage": 26,
+                    "legDamage": 22.1
+                },
+                {
+                    "rangeStartMeters": 20,
+                    "rangeEndMeters": 50,
+                    "headDamage": 63,
+                    "bodyDamage": 21,
+                    "legDamage": 17.85
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "29a0cfab-485b-f5d5-779a-b59f85e204a8",
+        "displayName": "Classic",
+        "image": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+        "category": "Sidearms",
+        "cost": 0,
+        "stats": {
+            "fireRate": 6.75,
+            "magazineSize": 12,
+            "runSpeedMultiplier": 0.85,
+            "equipTimeSeconds": 0.75,
+            "reloadTimeSeconds": 1.75,
+            "firstBulletAccuracy": 0.4,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": "EWeaponAltFireDisplayType::Shotgun",
+            "adsStats": null,
+            "altShotgunStats": {
+                "shotgunPelletCount": 3,
+                "burstRate": 2.22
+            },
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 30,
+                    "headDamage": 78,
+                    "bodyDamage": 26,
+                    "legDamage": 22.1
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 66,
+                    "bodyDamage": 22,
+                    "legDamage": 18.7
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "1baa85b4-4c70-1284-64bb-6481dfc3bb4e",
+        "displayName": "Ghost",
+        "image": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+        "category": "Sidearms",
+        "cost": 500,
+        "stats": {
+            "fireRate": 6.75,
+            "magazineSize": 15,
+            "runSpeedMultiplier": 0.85,
+            "equipTimeSeconds": 0.75,
+            "reloadTimeSeconds": 1.5,
+            "firstBulletAccuracy": 0.3,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Medium",
+            "feature": "EWeaponStatsFeature::Silenced",
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": null,
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 30,
+                    "headDamage": 105,
+                    "bodyDamage": 30,
+                    "legDamage": 25.5
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 87.5,
+                    "bodyDamage": 25,
+                    "legDamage": 21.25
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "e336c6b8-418d-9340-d77f-7a9e4cfe0702",
+        "displayName": "Sheriff",
+        "image": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+        "category": "Sidearms",
+        "cost": 800,
+        "stats": {
+            "fireRate": 4,
+            "magazineSize": 6,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.25,
+            "firstBulletAccuracy": 0.25,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::High",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": null,
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 30,
+                    "headDamage": 159.5,
+                    "bodyDamage": 55,
+                    "legDamage": 46.75
+                },
+                {
+                    "rangeStartMeters": 30,
+                    "rangeEndMeters": 50,
+                    "headDamage": 145,
+                    "bodyDamage": 50,
+                    "legDamage": 42.5
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "42da8ccc-40d5-affc-beec-15aa47b42eda",
+        "displayName": "Shorty",
+        "image": "https://media.valorant-api.com/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda/displayicon.png",
+        "category": "Sidearms",
+        "cost": 150,
+        "stats": {
+            "fireRate": 3.33,
+            "magazineSize": 2,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 0.75,
+            "reloadTimeSeconds": 1.75,
+            "firstBulletAccuracy": 4,
+            "shotgunPelletCount": 15,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": null,
+            "adsStats": null,
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 7,
+                    "headDamage": 24,
+                    "bodyDamage": 12,
+                    "legDamage": 10.200001
+                },
+                {
+                    "rangeStartMeters": 7,
+                    "rangeEndMeters": 15,
+                    "headDamage": 16,
+                    "bodyDamage": 8,
+                    "legDamage": 6.8
+                },
+                {
+                    "rangeStartMeters": 15,
+                    "rangeEndMeters": 50,
+                    "headDamage": 6,
+                    "bodyDamage": 3,
+                    "legDamage": 2.5500002
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "a03b24d3-4319-996d-0f8c-94bbfba1dfc7",
+        "displayName": "Operator",
+        "image": "https://media.valorant-api.com/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7/displayicon.png",
+        "category": "Sniper Rifles",
+        "cost": 4700,
+        "stats": {
+            "fireRate": 0.6,
+            "magazineSize": 5,
+            "runSpeedMultiplier": 0.76,
+            "equipTimeSeconds": 1.5,
+            "reloadTimeSeconds": 3.7,
+            "firstBulletAccuracy": 5,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::High",
+            "feature": "EWeaponStatsFeature::DualZoom",
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 2.5,
+                "fireRate": 0.75,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": -1
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 50,
+                    "headDamage": 255,
+                    "bodyDamage": 150,
+                    "legDamage": 120
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "4ade7faa-4cf1-8376-95ef-39884480959b",
+        "displayName": "Guardian",
+        "image": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/displayicon.png",
+        "category": "Assault Rifles",
+        "cost": 2250,
+        "stats": {
+            "fireRate": 5.25,
+            "magazineSize": 12,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 0.1,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::High",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.5,
+                "fireRate": 4.275,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": -1
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 50,
+                    "headDamage": 195,
+                    "bodyDamage": 65,
+                    "legDamage": 48.75
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "c4883e50-4494-202c-3ec3-6b8a9284f00b",
+        "displayName": "Marshal",
+        "image": "https://media.valorant-api.com/weapons/c4883e50-4494-202c-3ec3-6b8a9284f00b/displayicon.png",
+        "category": "Sniper Rifles",
+        "cost": 950,
+        "stats": {
+            "fireRate": 1.5,
+            "magazineSize": 5,
+            "runSpeedMultiplier": 0.8,
+            "equipTimeSeconds": 1.25,
+            "reloadTimeSeconds": 2.5,
+            "firstBulletAccuracy": 1,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Medium",
+            "feature": null,
+            "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 3.5,
+                "fireRate": 1.2,
+                "runSpeedMultiplier": 0.9,
+                "burstCount": 1,
+                "firstBulletAccuracy": -1
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 50,
+                    "headDamage": 202,
+                    "bodyDamage": 101,
+                    "legDamage": 85.850006
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "462080d1-4035-2937-7c09-27aa2a5c27a7",
+        "displayName": "Spectre",
+        "image": "https://media.valorant-api.com/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7/displayicon.png",
+        "category": "SMGs",
+        "cost": 1600,
+        "stats": {
+            "fireRate": 13.333,
+            "magazineSize": 30,
+            "runSpeedMultiplier": 0.85,
+            "equipTimeSeconds": 0.75,
+            "reloadTimeSeconds": 2.25,
+            "firstBulletAccuracy": 0.4,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": "EWeaponStatsFeature::Silenced",
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.15,
+                "fireRate": 11.9997,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 1,
+                "firstBulletAccuracy": 0.25
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 20,
+                    "headDamage": 78,
+                    "bodyDamage": 26,
+                    "legDamage": 22.1
+                },
+                {
+                    "rangeStartMeters": 20,
+                    "rangeEndMeters": 50,
+                    "headDamage": 66,
+                    "bodyDamage": 22,
+                    "legDamage": 18.7
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "f7e1b454-4ad4-1063-ec0a-159e56b58941",
+        "displayName": "Stinger",
+        "image": "https://media.valorant-api.com/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941/displayicon.png",
+        "category": "SMGs",
+        "cost": 950,
+        "stats": {
+            "fireRate": 16,
+            "magazineSize": 20,
+            "runSpeedMultiplier": 0.85,
+            "equipTimeSeconds": 0.75,
+            "reloadTimeSeconds": 2.25,
+            "firstBulletAccuracy": 0.65,
+            "shotgunPelletCount": 1,
+            "wallPenetration": "EWallPenetrationDisplayType::Low",
+            "feature": null,
+            "fireMode": null,
+            "altFireType": "EWeaponAltFireDisplayType::ADS",
+            "adsStats": {
+                "zoomMultiplier": 1.15,
+                "fireRate": 8.470589,
+                "runSpeedMultiplier": 0.76,
+                "burstCount": 4,
+                "firstBulletAccuracy": 0.5
+            },
+            "altShotgunStats": null,
+            "airBurstStats": null,
+            "damageRanges": [
+                {
+                    "rangeStartMeters": 0,
+                    "rangeEndMeters": 20,
+                    "headDamage": 67.5,
+                    "bodyDamage": 27,
+                    "legDamage": 22.95
+                },
+                {
+                    "rangeStartMeters": 20,
+                    "rangeEndMeters": 50,
+                    "headDamage": 62.5,
+                    "bodyDamage": 25,
+                    "legDamage": 21.25
+                }
+            ]
+        },
+        "ranges": null
+    },
+    {
+        "id": "2f59173c-4bed-b6c3-2191-dea9b58be9c7",
+        "displayName": "Melee",
+        "image": "https://media.valorant-api.com/weapons/2f59173c-4bed-b6c3-2191-dea9b58be9c7/displayicon.png",
+        "category": "Melee",
+        "cost": 0,
+        "stats": null,
+        "ranges": null
+    }
+]
