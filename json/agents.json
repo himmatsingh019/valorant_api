@@ -2,7 +2,7 @@
     {
         "id": "5f8d3a7f-467b-97f3-062c-13acf203c006",
         "displayName": "BREACH",
-        "color": "CD5F38",
+        "color": "0xFFCD5F38",
         "description": "The bionic Swede Breach fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.\n\nBreach's main gimmick is the ability to use all of his abilities through the geometry of the map,whether it is through walls, roofs, or terrain. This ability set rewards experienced players for knowing the maps well. His abilities also seem to reward an aggressive playstyle despite most of his abilities being crowd-control based.",
         "roleName": "Initiator",
         "abilities": [
@@ -35,7 +35,7 @@
     {
         "id": "f94c3b30-42be-e959-889c-5aa313dba261",
         "displayName": "RAZE",
-        "color": "FF7257",
+        "color": "0xFFFF7257",
         "description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of \"boom\".\n\nRaze's playstyle is very aggressive compared to many of the other agents in VALORANT, as most of her abilities are focused on mobility and damage instead of intel gathering or support. She is one of the few agents where most of her abilities are primarily meant to deal damage, namely Paint Shells and Showstopper, and has commonly been criticized by the community for said abilities.",
         "roleName": "Duelist",
         "abilities": [
@@ -68,7 +68,7 @@
     {
         "id": "601dbbe7-43ce-be57-2a40-4abd24953621",
         "displayName": "KAY/O",
-        "color": "5E869A",
+        "color": "0xFF5E869A",
         "description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to suppress enemy abilities cripples his opponents' capacity to fight back, securing him and his allies the ultimate edge.\n\n His face is a screen that displays different images based on what is happening. When he speaks, a peak meter is animated.  His body, arms, and head are made of metal. His legs are made out of what appears to be a combination of metal and leather. Parts of his body have electricity and energy visible, these parts include his forearms, the middle of his chest, and the sides of his legs.  KAY/O has been seen to use weapons such as the Judge, Bucky, Odin, and Vandal.",
         "roleName": "Initiator",
         "abilities": [
@@ -101,7 +101,7 @@
     {
         "id": "6f2a04ca-43e0-be17-7f36-b3908627744d",
         "displayName": "SKYE",
-        "color": "34C062",
+        "color": "0xFF34C062",
         "description": "Hailing from Australia, Skye and her band of beasts trailblaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.\n\nThe character, a more passive agent with a penchant for nature and non-human companions, can summon birds for scouting and even a dog you can embody and scour the map with to perform reconnaissance and stun opponents.",
         "roleName": "Initiator",
         "abilities": [
@@ -134,7 +134,7 @@
     {
         "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
         "displayName": "CYPHER",
-        "color": "B9B9B9",
+        "color": "0xFFB9B9B9",
         "description": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.\n\nIf intel is your thing, Cypher might be your Agent. This Moroccan surveillance Agent has abilities that trap and reveal the locations of enemies that get stuck in them, as well as an actual spycam he can place on the map to watch the action from afar. His ultimate extracts information from a fresh enemy corpse to temporarily reveal the location of remaining players on the opposing team.\n\nCypher wears a hat with an antenna attached to it. This device is what's used to locate and transmit the locations of enemies when Neural Theft is used as it floats over the body at Cypher's command. He wears an overcoat where he keeps his utility stored and always has a mask on to keep his face hidden. This mask is high tech and vision-specific",
         "roleName": "Sentinel",
         "abilities": [
@@ -167,7 +167,7 @@
     {
         "id": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
         "displayName": "SOVA",
-        "color": "21566D",
+        "color": "0xFF21566D",
         "description": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.\n\nSova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. An archery expert, he can equip his bow with different bolts that reveal enemy locations or shock nearby adversaries. He can also deploy a recon drone to survey the battlefield, while his ultimate lets him fire three deadly arrow shots through walls.\n\nOriginally, Sova was supposed to be a female and was supposed to have a visor.",
         "roleName": "Initiator",
         "abilities": [
@@ -206,7 +206,7 @@
     {
         "id": "1e58de9c-4950-5125-93e9-a0aee9f98746",
         "displayName": "KILLJOY",
-        "color": "FADA37",
+        "color": "0xFFFADA37",
         "description": "The genius of Germany, Killjoy secures and defends key battlefield positions with a collection of traps, turrets, and mines. Each invention is primed to punish any assailant too dumb to back down.\n\nKilljoy uses a collection of inventions and devices to take down her enemies.Killjoy is a young German woman with slick dark brown hair and brown eyes. She is often seen wearing a padded yellow jacket with a blue interior, purple \"X\" patches on either shoulder and a green beanie-like hat. Underneath the jacket she wears a gray shirt with a rising bars graphic. She has round glasses with black outlines, a pair of silver hoop earrings in either ear, and a pair of green shoes that resemble Converse Chuck Taylor's with silver toes and loose tongues. Covering her hands are a pair of black gloves with blue straps that exposes her ring and pinkie fingers. She wears black ripped skinny jeans with a green strap on her left thigh which is also connected to a fanny pack.",
         "roleName": "Sentinel",
         "abilities": [
@@ -239,7 +239,7 @@
     {
         "id": "707eab51-4836-f488-046a-cda6bf494859",
         "displayName": "VIPER",
-        "color": "00954A",
+        "color": "0xFF00954A",
         "description": "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mindgames surely will.\n\nViper is a predator that deals in poison and chemical warfare. She has exploding projectiles that spill acid on the battlefield, as well as a poison-gas emitter, and a toxic gas screen to prevent passage. Her ultimate emits a toxic cloud that conceals her location and can highlight enemies who wander into it. Viper is a savage and confident agent who doesn't fear enemies, in fact desires the enemies' fear. Just like her abilities, she can be quite \"toxic\", however she is seen being more amiable and caring towards her teammates.",
         "roleName": "Controller",
         "abilities": [
@@ -278,7 +278,7 @@
     {
         "id": "eb93336a-449b-9c1b-0a54-a891f7921d69",
         "displayName": "PHOENIX",
-        "color": "F18C3F",
+        "color": "0xFFF18C3F",
         "description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he's rushing in to fight on his own terms.\n\nThe fiery Brit can wield the power of flame to essentially reshape the battlefield into how he sees fit. With exploding fireballs that damage enemies and heal him, a vision-blocking wall of fire, and a blinding fire burst, Phoenix is great at manipulating the flow of the match. His ultimate grants him the ability to be reborn if he's killed during its duration, galvanizing him to make bold moves he wouldn't otherwise make.\n\nPhoenix is a dark skinned, youthful tall man of Afro-British descent who wears a black long sleeve shirt with a white Phoenix graphic underneath his white jacket. He wears dark baggy pants with straps that hold bullets shells and a pair of black sneakers that have white soles and orange laces. His jacket has fiery-colored lighting on it's inside, which possibly could be Radianite. His hair is in short black dreadlocks, bright orange dyed tips and shaved sides.",
         "roleName": "Duelist",
         "abilities": [
@@ -317,7 +317,7 @@
     {
         "id": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
         "displayName": "ASTRA",
-        "color": "660EE4",
+        "color": "0xFF660EE4",
         "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she's always eons ahead of her enemy's next move.\n\nAstra is an energetic and joyful agent who doesn't hold back what she wants to say. She is fairly straightforward when it comes to expressing herself and friendly banter is definitely her go-to style. Astra is from Ghanaian descent and has a dark skin tone. Her hair is braided and it represents her Ghanaian culture. She has a purple hoodie, and she pulls up the hood when she is in her Astral Form.",
         "roleName": "Controller",
         "abilities": [
@@ -356,7 +356,7 @@
     {
         "id": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
         "displayName": "BRIMSTONE",
-        "color": "E4883A",
+        "color": "0xFFE4883A",
         "description": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.\n\n Brimstone is a powerful commander that utilizes incendiary grenades, smokescreen airstrikes, and rapid-fire-inducing stim beacons to damage enemies and buff teammates. His impressive Orbital Strike ultimate summons an enormous laser that destroys anyone who doesn't move out of the radius fast enough. Brimstone is the oldest of group, but he always encourages his team. He calls himself stubborn and will never leave his team behind. ",
         "roleName": "Controller",
         "abilities": [
@@ -389,7 +389,7 @@
     {
         "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
         "displayName": "YORU",
-        "color": "292CA0",
+        "color": "0xFF292CA0",
         "description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.\n\nYoru is a duelist agent who specializes in faking out opponents and moving into unsuspecting positions. He has two abilities that allow him to move to a new location stealthily and another that is designed to make enemies think that he has moved. So keeping track of him is near impossible at times.",
         "roleName": "Duelist",
         "abilities": [
@@ -422,7 +422,7 @@
     {
         "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
         "displayName": "SAGE",
-        "color": "38A994",
+        "color": "0xFF38A994",
         "description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.\n\nSage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield. The most prominent support character to date hails from China and brings orbs that heal allies, slow enemies, and create barriers out of the ground to impede the flow of a match. Her ultimate ability allows her to resurrect a fallen ally, which is significant in a game with no respawns.",
         "roleName": "Sentinel",
         "abilities": [
@@ -455,7 +455,7 @@
     {
         "id": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
         "displayName": "REYNA",
-        "color": "BE559F",
+        "color": "0xFFBE559F",
         "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her sharply dependant on performance.\n\nReyna has the passive ability of Soul Harvest, enemies killed by Reyna or her teammates leave behind Soul Orbs that lasts 3 seconds. Soul Harvest abilities consist of Devour and Dismiss which have a shared usage pool. Reyna takes what she wants when she wants it, no matter who is standing in her way. She has a strong dislike for technology and thrives on the enemy's misery, and loves to compete with fellow Radiants to see who is the most powerful.\n\nShe is often seen with the edges of her hair dyed purple. She is relatively exposed and only has one arm covered while the other exposed. Her sharp eyes make her menacing to look at.",
         "roleName": "Duelist",
         "abilities": [
@@ -488,7 +488,7 @@
     {
         "id": "8e253930-4c05-31dd-1b6c-968525494517",
         "displayName": "OMEN",
-        "color": "38417C",
+        "color": "0xFF38417C",
         "description": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to uncover where he might strike next.\n\nA man with mysterious origins, Omen is focused on hindering the vision of his enemies with things like an orb that strikes those in his sights with nearsightedness and another that bursts to obscure the vision of everyone nearby. He can also teleport a short distance, or use his ultimate to teleport anywhere on the map as a shadow.Omen shows some friendliness towards people he knows well such as Viper, shown by being able to call her by her real name despite her warning other agents to never do so. Omen shows some friendliness towards people he knows well such as Viper, shown by being able to call her by her real name despite her warning other agents to never do so.\n\nOmen wears gray armor, black pants, and a purple cape. His arms are wrapped in bandages, never revealing his form underneath. His face cannot be seen under his hood, with only three bright blue slits being present instead.",
         "roleName": "Controller",
         "abilities": [
@@ -521,7 +521,7 @@
     {
         "id": "add6443a-41bd-e414-f6ad-e58d267f4e95",
         "displayName": "JETT",
-        "color": "6BBED7",
+        "color": "0xFF6BBED7",
         "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies up before they even know what hit them.\n\nFrom Korea comes Jett, an agile fighter who prioritizes movement over everything. Her abilities include a teleportation-based dash and an updraft that lets her reach higher ledges. She also has a smokebomb ability to hinder sightlines and a powerful Bladestorm ultimate that deals moderate-to-heavy damage and remains accurate even while she's moving. Jett is one of the few Agents with a passive ability. Holding the jump key while in the air will allow Jett to slow her descent.\n\nJett's Ultimate allows her to wield several throwing knives that deal moderate damage and kill on headshots. Getting a kill replenishes your daggers and you can choose to throw them one at a time or throw all remaining daggers in a short-ranged burst.\n\nJett is a fair-skinned, short girl, being the smallest of the VALORANT agents. She has white hair, which she ties in a bun on the back. Her bangs are rather long and remain stably locked. Her eyes are a shade of blue, and she looks like she wears eyeliner. Her clothes are all in shades and tints of blue, including her darkest pieces of apparel.",
         "roleName": "Duelist",
         "abilities": [
