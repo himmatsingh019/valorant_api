@@ -20,11 +20,6 @@
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/breeze.png"
     },
     {
-        "id": "e2ad5c54-4114-a870-9641-8ea21279579a",
-        "displayName": "Icebox",
-        "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/icebox.png"
-    },
-    {
         "displayName": "HAVEN",
         "description": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There’s more territory to control, but defenders can use the extra real estate for aggressive pushes.\n\nHaven's 'unique' feature is that it has an additional third spike site. This does not affect the number of ultimate orbs on the map; Haven's two ultimate orbs are present in A Long and C Long (Dragon).",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/haven.png"
