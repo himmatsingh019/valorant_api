@@ -1,22 +1,22 @@
 [
     {
-        "id": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
         "displayName": "Ascent",
+        "description": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they’re down, you’ll have to destroy them or find another way. Yield as little territory as possible. Ascent is a map set in Italy that features a large, open middle area that both teams can skirmish over. Mid is a playground for diverse ability use and successfully controlling the area opens additional routes for Attackers to both Spike sites.\n\nThe map's 'unique' feature is mechanical doors leading into sites. Each site has one door (A Link for A and Market for B) that is opened at the start of each round.",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/ascent.png"
     },
     {
-        "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
         "displayName": "Split",
+        "description": "If you want to go far, you’ll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.Split was the first map to use ascenders. There are three sets on the map: Two that allow players to get up from Sewer to A Lobby. One that allows players to get up from B Hell to B Tower. Four that allow players to navigate through Vents",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/split.png"
     },
     {
-        "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
         "displayName": "Bind",
+        "description": "Two sites. No middle. Gotta pick left or right. What’s it going to be then. Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank. \n\nBind's 'unique' feature is that it doesn't contain a mid section, instead having two one-way teleporters. One takes players from A Short to B Short and the other takes players from B Long to A Lobby. Players use teleporters by walking into the section of wall taken up by the teleport entrance. They will then instantly arrive in a small exit room which players leave by walking towards the door out of the room. This door is closed by default and can only be opened by players inside the exit room walking up to it, at which point they will open automatically. Players outside the exit room cannot open these doors, but they can be penetrated by gunfire.",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/bind.png"
     },
     {
-        "id": "2fb9a4fd-47b8-4e7d-a969-74b4046ebd53",
         "displayName": "Breeze",
+        "description": "Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.\n\nBreeze's 'unique' features are present on the A side of the map, mostly to do with A Hall. There are ropes to get players into A Hall. On the defending side players can use the rope at the back of A Site to get onto Bridge and into Hall, and on the attacking side players can use the rope in A Lobby to get into Hall.\n\nA Site has an impenetrable, indestructible mechanical door leading into A Hall that can be opened and closed using switches on either side. The door is closed at the start of each round.Towards the Attacker side of Hall is a one-way chute (known as a 'vent') that can be used to go to Mid.",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/breeze.png"
     },
     {
@@ -25,13 +25,18 @@
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/icebox.png"
     },
     {
-        "id": "ee613ee9-28b7-4beb-9666-08db13bb2244",
         "displayName": "The Range",
+        "description": "",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/range.png"
     },
     {
-        "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
-        "displayName": "Haven",
+        "displayName": "HAVEN",
+        "description": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There’s more territory to control, but defenders can use the extra real estate for aggressive pushes.\n\nHaven's 'unique' feature is that it has an additional third spike site. This does not affect the number of ultimate orbs on the map; Haven's two ultimate orbs are present in A Long and C Long (Dragon).",
         "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/haven.png"
+    },
+    {
+        "displayName": "ICEBOX",
+        "description": "Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they’ll never see you coming.Icebox is the first map to introduce horizontal ziplines, seen at the A Site. Each Icebox site is a complex combat space that features plenty of cover and verticality. This map emphasizes skirmishes, sharp aim, and adaptive play.\n\nIt is also the first map where the plant site has different levels of elevation. Both sites contain nests that players can get into using ropes and then plant the spike on the nest floor.",
+        "image": "https://raw.githubusercontent.com/himmatsingh019/valorant_api/master/images/maps/icebox.png"
     }
 ]
